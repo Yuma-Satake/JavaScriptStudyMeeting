@@ -1,0 +1,4 @@
+/* Cherry Bomb One をフォントとして全体に適用する */
+body {
+  font-family: "Cherry Bomb One", cursive;
+}
